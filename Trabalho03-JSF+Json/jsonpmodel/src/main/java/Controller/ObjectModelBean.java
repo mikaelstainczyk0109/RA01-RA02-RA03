@@ -17,7 +17,7 @@ import javax.json.stream.JsonGenerator;
 
 /**
  *
- * @author BSICoord
+ * @author Mikael 
  */
 @Named(value = "objectModelBean")
 @SessionScoped
